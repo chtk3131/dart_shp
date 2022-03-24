@@ -18,8 +18,8 @@ dependencies:
   # BSD
   intl: 0.17.0
 
-  dart_hydrologis_utils: 0.6.0
-  # path: ../dart_hydrologis_utils/
+  dart_hydrologis_utils:
+    path: ../dart_hydrologis_utils/
   # git:
   #   url: https://github.com/moovida/dart_hydrologis_utils.git
 
