@@ -19,9 +19,9 @@ dependencies:
   intl: 0.17.0
 
   dart_hydrologis_utils:
-    path: ../dart_hydrologis_utils/
-  # git:
-  #   url: https://github.com/moovida/dart_hydrologis_utils.git
+    # path: ../dart_hydrologis_utils/
+    git:
+      url: https://github.com/chtk3131/dart_hydrologis_utils.git
 
 dev_dependencies:
   test: 1.16.0
