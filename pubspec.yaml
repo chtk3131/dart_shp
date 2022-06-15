@@ -14,7 +14,7 @@ dependencies:
   # BSD
   # timezone: ^0.5.7
   # BSD
-  characters: 1.1.0
+  characters: 1.2.0
   # BSD
   intl: 0.17.0
 
